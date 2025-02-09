@@ -1,0 +1,10 @@
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\bin\Debug\Connected_Model.exe.config
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\bin\Debug\Connected_Model.exe
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\bin\Debug\Connected_Model.pdb
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.csproj.AssemblyReference.cache
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.Form1.resources
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.Properties.Resources.resources
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.csproj.GenerateResource.cache
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.csproj.CoreCompileInputs.cache
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.exe
+D:\ITI(intensive-Program .NET)\Ado.Net\Labs\Lab_2\Connected_Model\Connected_Model\obj\Debug\Connected_Model.pdb
